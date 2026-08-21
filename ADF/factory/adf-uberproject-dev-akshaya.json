@@ -1,0 +1,15 @@
+{
+	"name": "adf-uberproject-dev-akshaya",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52854cab-0731-49e9-abb4-79214dbef749",
+		"tenantId": "242e1dcc-43fc-4837-a332-bb5e4616824c"
+	}
+}
