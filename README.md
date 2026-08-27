@@ -259,7 +259,9 @@ Through this project, I gained hands-on experience with:
 
 **Akshaya Redij**
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/akshaya-redij
+Portfolio : akshayaredijportfolio.vercel.app
+Email : edij.akshaya@gmail.com
 
 GitHub: https://github.com/yourusername
 
